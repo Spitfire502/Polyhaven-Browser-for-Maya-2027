@@ -31,6 +31,7 @@ INSTALLATION
    Haven logo icon) any time to launch the tool - you only need to run
    Init() once, ever (it saves the shelf button permanently).
 
+<img width="756" height="412" alt="Screenshot 2026-10-07 193243" src="https://github.com/user-attachments/assets/96366283-5274-44b4-bb61-5545d8148d8d" />
 
 USAGE
 -----
@@ -42,6 +43,9 @@ USAGE
 - Click a downloaded HDRI to assign it to your scene's SkyDome light
   (works with multi-resolution downloads too - you'll get a picker).
 - Right-click any downloaded item to delete it.
+<img width="892" height="678" alt="Screenshot 2026-10-07 193227" src="https://github.com/user-attachments/assets/1409dd20-27bf-48ff-b723-a218e990279c" />
+<img width="897" height="681" alt="Screenshot 2026-10-07 193257" src="https://github.com/user-attachments/assets/28c171d0-37a4-4807-af7c-1be20cdb5aea" />
+<img width="893" height="862" alt="Screenshot 2026-10-07 193330" src="https://github.com/user-attachments/assets/01670ff0-714f-4b90-a5b4-442c6d5f9580" />
 
 
 COMPATIBILITY
