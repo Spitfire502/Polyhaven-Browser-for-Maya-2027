@@ -55,3 +55,5 @@ run on other Maya versions - Autodesk changes Python's internal bytecode
 format between major versions, and this package ships pre-compiled for
 Maya 2027 only. If you're on a different Maya version, contact the author
 for a compatible build.
+
+https://vimeo.com/user255443974/phbrowser?share=copy&fl=sv&fe=ci
